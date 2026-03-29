@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm NASYA THAKUR 👋
 
-<!--
-**nasya25bce10851-pixel/nasya25bce10851-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE CORE Student | VIT Bhopal University  
+📍 First Year  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I am a first-year engineering student currently exploring different areas of technology. I am interested in learning programming, improving my problem-solving skills, and building useful projects over time.
+
+
+## 🚀 What I'm Learning
+- Basics of programming  
+- Problem-solving  
+- Digital literacy and online tools  
+
+
+
+## 🎯 Goals
+- Build strong coding fundamentals  
+- Create projects and upload them on GitHub  
+- Improve my technical and communication skills  
+
+
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/nasya-thakur
+- Kaggle: [Your Kaggle Link]  
+
+
+
+⭐ I am just getting started and excited to learn new things!
+
